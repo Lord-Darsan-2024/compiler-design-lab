@@ -24,7 +24,6 @@
  * gcc -std=c99 -Wall -Wextra -O2 -o first_follow first_follow.c
  * ./first_follow
  *
- * AUTHOR: PG Scholar, Department of Computer Science and Engineering
  * ============================================================================
  */
 
