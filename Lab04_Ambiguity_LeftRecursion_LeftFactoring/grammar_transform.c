@@ -24,7 +24,6 @@
  * gcc -std=c99 -Wall -Wextra -O2 -o grammar_transform grammar_transform.c
  * ./grammar_transform
  *
- * AUTHOR: PG Scholar, Department of Computer Science and Engineering
  * ============================================================================
  */
 
