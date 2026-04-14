@@ -20,7 +20,6 @@
  * gcc -std=c99 -Wall -Wextra -O2 -o quad_triple_indirect quad_triple_indirect.c
  * ./quad_triple_indirect
  *
- * AUTHOR: PG Scholar, Department of Computer Science and Engineering
  * ============================================================================
  */
 
