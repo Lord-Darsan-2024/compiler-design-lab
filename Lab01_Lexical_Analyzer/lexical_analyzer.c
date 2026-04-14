@@ -23,7 +23,6 @@
  * gcc -std=c99 -Wall -Wextra -O2 -o lexical_analyzer lexical_analyzer.c
  * ./lexical_analyzer
  *
- * AUTHOR: PG Scholar, Department of Computer Science and Engineering
  * ============================================================================
  */
 
