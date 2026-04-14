@@ -21,7 +21,6 @@
  * gcc -std=c99 -Wall -Wextra -O2 -o lr0_items lr0_items.c
  * ./lr0_items
  *
- * AUTHOR: PG Scholar, Department of Computer Science and Engineering
  * ============================================================================
  */
 
