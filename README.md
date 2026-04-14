@@ -2,11 +2,10 @@
 
 ## Overview
 
-This repository contains a comprehensive, publication-quality implementation of a postgraduate (M.Tech / M.S.) Compiler Design Laboratory course suitable for premier research institutions including IIT, NIT, and equivalent establishments. The laboratory consists of 15 interconnected experiments systematically covering the complete compiler pipeline from lexical analysis through code generation and optimization.
+This repository constitutes the complete laboratory portfolio for the Compiler Design course, undertaken as part of the Undergraduate curriculum in Computer Science and Engineering. The experiments documented herein span the full compilation pipeline — from the formal recognition of lexical tokens at the character stream level, through syntactic and semantic analysis, to intermediate code generation, machine-independent optimisation, and target code synthesis.
+Each laboratory experiment is implemented in the C programming language (C99 standard), with a deliberate emphasis on algorithmic correctness, computational efficiency, and engineering clarity. The implementations are grounded in the formal theoretical frameworks established in automata theory, formal language theory, and compiler construction — drawing principally from the canonical texts of Aho et al. and Hopcroft et al.
+The repository is structured to serve as both a functional codebase and a rigorous academic reference. Every experiment includes a purpose-built source file alongside a formal technical write-up that documents the underlying theory, algorithm, complexity analysis, and annotated sample output.
 
-## Course Abstract
-
-The Compiler Design Laboratory provides hands-on experience with the theoretical principles and practical implementation techniques fundamental to compiler construction. Through systematic examination of each phase—lexical analysis, syntax analysis, intermediate code generation, and code optimization—students develop production-quality implementations demonstrating how high-level programming constructs are translated to efficient machine code. This laboratory bridges formal language theory and real-world compiler engineering, equipping students with deep understanding of language implementation and practical software engineering skills applicable to domain-specific language design, program analysis, and runtime systems.
 
 ## Laboratory Structure
 
@@ -31,9 +30,21 @@ The Compiler Design Laboratory provides hands-on experience with the theoretical
 ## Prerequisites
 
 ### Academic Foundation
-- **Formal Language Theory**: Context-free grammars, regular languages, automata (Hopcroft et al., 2006)
+- **Formal Language and Automata Theory**: Context-free grammars, regular languages, automata (Hopcroft et al., 2006)
 - **Discrete Mathematics**: Set theory, graph algorithms, mathematical induction
+- **Data Structures and Algorithm Analysis
+- **Computer Organisation and Architecture
 - **Programming**: Proficiency in C (data structures, pointers, dynamic memory)
+
+### Technical Requirements
+- **The following tools and environment specifications are required to compile and execute all laboratory programs in this repository.
+| Requirement # | Specification |
+|---------------|---------------|
+| Compiler | GCC 7.0 or later — verify with gcc --version |
+| Language Standard | ISO C99 — enforced via -std=c99 flag |
+| Supported Platforms | Linux, macOS, Windows (via MinGW-w64 or WSL 2) |
+| Recommended Build Flags | -Wall -Wextra -O2 — applied uniformly across all labs |
+- **All source files compile without warnings or errors under gcc -std=c99 -Wall -Wextra -O2. No third-party libraries or external dependencies are required. The C standard library (libc) is the sole dependency.
 
 ### Recommended Textbooks
 - *Compilers: Principles, Techniques, and Tools* (Dragon Book) – Aho, Lam, Sethi, Ullman (2006)
