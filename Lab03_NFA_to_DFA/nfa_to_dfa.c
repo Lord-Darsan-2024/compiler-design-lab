@@ -23,7 +23,6 @@
  * gcc -std=c99 -Wall -Wextra -O2 -o nfa_to_dfa nfa_to_dfa.c
  * ./nfa_to_dfa
  *
- * AUTHOR: PG Scholar, Department of Computer Science and Engineering
  * ============================================================================
  */
 
