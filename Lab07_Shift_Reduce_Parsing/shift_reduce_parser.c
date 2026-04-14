@@ -23,7 +23,6 @@
  * gcc -std=c99 -Wall -Wextra -O2 -o shift_reduce_parser shift_reduce_parser.c
  * ./shift_reduce_parser
  *
- * AUTHOR: PG Scholar, Department of Computer Science and Engineering
  * ============================================================================
  */
 
