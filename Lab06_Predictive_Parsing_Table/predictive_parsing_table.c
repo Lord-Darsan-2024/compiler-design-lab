@@ -22,7 +22,6 @@
  * gcc -std=c99 -Wall -Wextra -O2 -o predictive_parsing_table predictive_parsing_table.c
  * ./predictive_parsing_table
  *
- * AUTHOR: PG Scholar, Department of Computer Science and Engineering
  * ============================================================================
  */
 
