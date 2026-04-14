@@ -24,7 +24,6 @@
  * gcc -std=c99 -Wall -Wextra -O2 -o re_to_nfa re_to_nfa.c
  * ./re_to_nfa
  *
- * AUTHOR: PG Scholar, Department of Computer Science and Engineering
  * ============================================================================
  */
 
