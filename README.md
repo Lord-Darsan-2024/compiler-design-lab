@@ -170,7 +170,9 @@ This reference implementation provides a solid foundation for institutional cust
 
 ## Contact and Support
 
-For institutional adoptions, course adaptations, or research applications, contact the course coordinators at your institution.
+R.V. Darsan
+darsanrv@gmail.com
+If this repository helped you in learning or lab submission, please consider giving it a star ⭐ on GitHub to support open educational resources.
 
 ---
 
