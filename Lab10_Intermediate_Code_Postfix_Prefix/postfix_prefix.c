@@ -21,7 +21,6 @@
  * gcc -std=c99 -Wall -Wextra -O2 -o postfix_prefix postfix_prefix.c
  * ./postfix_prefix
  *
- * AUTHOR: PG Scholar, Department of Computer Science and Engineering
  * ============================================================================
  */
 
