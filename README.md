@@ -38,13 +38,13 @@ The repository is structured to serve as both a functional codebase and a rigoro
 
 ### Technical Requirements
 - The following tools and environment specifications are required to compile and execute all laboratory programs in this repository.
-| Requirement # | Specification |
-|---------------|---------------|
-| Compiler | GCC 7.0 or later — verify with gcc --version |
-| Language Standard | ISO C99 — enforced via -std=c99 flag |
+
+| Requirement | Specification |
+|---|---|
+| Compiler | GCC 7.0 or later — verify with `gcc --version` |
+| Language Standard | ISO C99 — enforced via `-std=c99` flag |
 | Supported Platforms | Linux, macOS, Windows (via MinGW-w64 or WSL 2) |
-| Recommended Build Flags | -Wall -Wextra -O2 — applied uniformly across all labs |
-- All source files compile without warnings or errors under gcc -std=c99 -Wall -Wextra -O2. No third-party libraries or external dependencies are required. The C standard library (libc) is the sole dependency.
+| Recommended Build Flags | `-Wall -Wextra -O2` — applied uniformly across all labs |
 
 ### Recommended Textbooks
 - *Compilers: Principles, Techniques, and Tools* (Dragon Book) – Aho, Lam, Sethi, Ullman (2006)
