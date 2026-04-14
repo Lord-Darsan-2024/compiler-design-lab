@@ -19,7 +19,6 @@
  * gcc -std=c99 -Wall -Wextra -O2 -o code_generator code_generator.c
  * ./code_generator
  *
- * AUTHOR: PG Scholar, Department of Computer Science and Engineering
  * ============================================================================
  */
 
