@@ -21,7 +21,6 @@
  * gcc -std=c99 -Wall -Wextra -O2 -o storage_allocation storage_allocation.c
  * ./storage_allocation
  *
- * AUTHOR: PG Scholar, Department of Computer Science and Engineering
  * ============================================================================
  */
 
