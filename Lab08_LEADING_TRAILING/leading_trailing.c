@@ -22,7 +22,6 @@
  * gcc -std=c99 -Wall -Wextra -O2 -o leading_trailing leading_trailing.c
  * ./leading_trailing
  *
- * AUTHOR: PG Scholar, Department of Computer Science and Engineering
  * ============================================================================
  */
 
