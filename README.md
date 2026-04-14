@@ -32,19 +32,19 @@ The repository is structured to serve as both a functional codebase and a rigoro
 ### Academic Foundation
 - **Formal Language and Automata Theory**: Context-free grammars, regular languages, automata (Hopcroft et al., 2006)
 - **Discrete Mathematics**: Set theory, graph algorithms, mathematical induction
-- **Data Structures and Algorithm Analysis
-- **Computer Organisation and Architecture
+- Data Structures and Algorithm Analysis
+- Computer Organisation and Architecture
 - **Programming**: Proficiency in C (data structures, pointers, dynamic memory)
 
 ### Technical Requirements
-- **The following tools and environment specifications are required to compile and execute all laboratory programs in this repository.
+- The following tools and environment specifications are required to compile and execute all laboratory programs in this repository.
 | Requirement # | Specification |
 |---------------|---------------|
 | Compiler | GCC 7.0 or later — verify with gcc --version |
 | Language Standard | ISO C99 — enforced via -std=c99 flag |
 | Supported Platforms | Linux, macOS, Windows (via MinGW-w64 or WSL 2) |
 | Recommended Build Flags | -Wall -Wextra -O2 — applied uniformly across all labs |
-- **All source files compile without warnings or errors under gcc -std=c99 -Wall -Wextra -O2. No third-party libraries or external dependencies are required. The C standard library (libc) is the sole dependency.
+- All source files compile without warnings or errors under gcc -std=c99 -Wall -Wextra -O2. No third-party libraries or external dependencies are required. The C standard library (libc) is the sole dependency.
 
 ### Recommended Textbooks
 - *Compilers: Principles, Techniques, and Tools* (Dragon Book) – Aho, Lam, Sethi, Ullman (2006)
