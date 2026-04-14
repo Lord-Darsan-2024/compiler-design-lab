@@ -19,7 +19,6 @@
  * gcc -std=c99 -Wall -Wextra -O2 -o data_flow_analysis data_flow_analysis.c
  * ./data_flow_analysis
  *
- * AUTHOR: PG Scholar, Department of Computer Science and Engineering
  * ============================================================================
  */
 
