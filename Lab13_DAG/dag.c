@@ -20,7 +20,6 @@
  * gcc -std=c99 -Wall -Wextra -O2 -o dag dag.c
  * ./dag
  *
- * AUTHOR: PG Scholar, Department of Computer Science and Engineering
  * ============================================================================
  */
 
